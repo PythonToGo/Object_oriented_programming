@@ -34,7 +34,7 @@ class User:
 
 # creating user
 user1 = User("Kim", "kim@follow.py", "67890")
-user2 = User("Leeo", "lee@follow.py", "12345")
+user2 = User("Lee", "lee@follow.py", "12345")
 user3 = User("Park", "park@follow.py", "09876")
 user4 = User("Choi", "choi@follow.py", "54321")
 
